@@ -1,0 +1,12 @@
+[1mdiff --git a/src/hello_sta556.py b/src/hello_sta556.py[m
+[1mindex efaf95b..40a7d0c 100644[m
+[1m--- a/src/hello_sta556.py[m
+[1m+++ b/src/hello_sta556.py[m
+[36m@@ -5,3 +5,6 @@[m [mname = "Lukas Lowe"[m
+ course_number = "STA 556"[m
+ semester = "Fall 2026"[m
+ print(f"Welcome to {semester} {course_number}, {name}. ")[m
+[32m+[m[32mprint([m
+[32m+[m[32m    "I am beginning to build reproducible computational workflows."[m
+[32m+[m[32m)[m
+\ No newline at end of file[m
