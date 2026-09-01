@@ -1,0 +1,5 @@
+commit = create a version that can be save
+push = send the committed version to GitHub
+touch = create a new file
+cd = change directory
+ls = list all files in a directory
