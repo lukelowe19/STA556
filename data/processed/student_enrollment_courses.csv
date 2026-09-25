@@ -1,0 +1,60 @@
+,student_id,first_name,last_name,program,year,age,active,entry_term,gpa,credits_completed,advisor,high_gpa,enrollment_id,course_id,term,status,midterm_score,final_score,project_score,attendance_pct,_merge,department,course_number,course_title,credits,level,delivery
+0,S1001,Avery,Nguyen,Mathematics,1st,27.0,Yes,Fall 2023,3.51,72,Dr. Moreno,True,E5001,C102,Spring 2026,Completed,96.0,65.0,65.0,94.7,both,STA,270.0,Applied Statistics,3.0,Undergraduate,Hybrid
+1,S1001,Avery,Nguyen,Mathematics,1st,27.0,Yes,Fall 2023,3.51,72,Dr. Moreno,True,E5002,C106,Spring 2026,Completed,81.0,80.0,63.0,96.6,both,STA,556.0,Statistics and Data Science Computing Workflows,3.0,Graduate,In Person
+2,S1001,Avery,Nguyen,Mathematics,1st,27.0,Yes,Fall 2023,3.51,72,Dr. Moreno,True,E5003,C103,Spring 2026,Completed,77.0,67.0,72.0,88.6,both,CS,126.0,Introduction to Computing,4.0,Undergraduate,In Person
+3,S1002,Maya,Patel,Computer Science,1st,27.0,Yes,Spring 2026,2.71,108,Dr. Shah,False,E5004,C106,Fall 2025,Completed,86.0,,85.0,77.3,both,STA,556.0,Statistics and Data Science Computing Workflows,3.0,Graduate,In Person
+4,S1002,Maya,Patel,Computer Science,1st,27.0,Yes,Spring 2026,2.71,108,Dr. Shah,False,E5005,C101,Fall 2025,Completed,90.0,55.0,79.0,85.8,both,STA,141.0,Exploratory Data Analysis,3.0,Undergraduate,In Person
+5,S1003,Noah,Garcia,Mathematics,1st,18.0,Yes,Spring 2024,2.81,18,Dr. Reed,False,E5006,C102,Fall 2026,Enrolled,93.0,76.0,95.0,88.4,both,STA,270.0,Applied Statistics,3.0,Undergraduate,Hybrid
+6,S1004,Sofia,Johnson,Computer Science,2nd,20.0,Yes,Spring 2026,3.05,63,Dr. Kim,False,E5007,C105,Spring 2026,Completed,98.0,73.0,88.0,89.5,both,STA,444.0,Statistical Computing,3.0,Undergraduate,Online
+7,S1004,Sofia,Johnson,Computer Science,2nd,20.0,Yes,Spring 2026,3.05,63,Dr. Kim,False,E5008,C101,Fall 2025,Completed,87.0,58.0,,75.6,both,STA,141.0,Exploratory Data Analysis,3.0,Undergraduate,In Person
+8,S1004,Sofia,Johnson,Computer Science,2nd,20.0,Yes,Spring 2026,3.05,63,Dr. Kim,False,E5009,C104,Fall 2026,Enrolled,93.0,79.0,73.0,92.3,both,MAT,239.0,Linear Algebra,3.0,Undergraduate,In Person
+9,S1005,Ethan,Kim,Computer Science,4th,19.0,Yes,Spring 2025,,18,Dr. Kim,False,E5010,C101,Spring 2026,Completed,73.0,57.0,99.0,82.9,both,STA,141.0,Exploratory Data Analysis,3.0,Undergraduate,In Person
+10,S1005,Ethan,Kim,Computer Science,4th,19.0,Yes,Spring 2025,,18,Dr. Kim,False,E5011,C108,Fall 2025,Completed,68.0,55.0,82.0,91.0,both,MAT,442.0,Probability,3.0,Undergraduate,Hybrid
+11,S1006,Liam,Martinez,Statistics,3rd,27.0,Yes,Spring 2024,3.52,45,Dr. Moreno,True,E5012,C105,Fall 2026,Enrolled,75.0,,68.0,97.2,both,STA,444.0,Statistical Computing,3.0,Undergraduate,Online
+12,S1006,Liam,Martinez,Statistics,3rd,27.0,Yes,Spring 2024,3.52,45,Dr. Moreno,True,E5013,C101,Fall 2026,Enrolled,98.0,81.0,82.0,80.0,both,STA,141.0,Exploratory Data Analysis,3.0,Undergraduate,In Person
+13,S1007,Olivia,Brown,Statistics,2nd,22.0,No,Spring 2026,3.75,36,Dr. Kim,True,E5014,C103,Fall 2025,Completed,61.0,93.0,86.0,85.8,both,CS,126.0,Introduction to Computing,4.0,Undergraduate,In Person
+14,S1007,Olivia,Brown,Statistics,2nd,22.0,No,Spring 2026,3.75,36,Dr. Kim,True,E5015,C106,Spring 2026,Completed,59.0,82.0,60.0,96.9,both,STA,556.0,Statistics and Data Science Computing Workflows,3.0,Graduate,In Person
+15,S1008,Lucas,Wilson,Data Science,4th,27.0,Yes,Spring 2024,2.89,45,Dr. Shah,False,E5016,C104,Spring 2026,Completed,83.0,83.0,78.0,85.8,both,MAT,239.0,Linear Algebra,3.0,Undergraduate,In Person
+16,S1008,Lucas,Wilson,Data Science,4th,27.0,Yes,Spring 2024,2.89,45,Dr. Shah,False,E5017,C102,Fall 2025,Completed,89.0,65.0,79.0,,both,STA,270.0,Applied Statistics,3.0,Undergraduate,Hybrid
+17,S1008,Lucas,Wilson,Data Science,4th,27.0,Yes,Spring 2024,2.89,45,Dr. Shah,False,E5018,C101,Spring 2026,Completed,74.0,70.0,62.0,87.4,both,STA,141.0,Exploratory Data Analysis,3.0,Undergraduate,In Person
+18,S1008,Lucas,Wilson,Data Science,4th,27.0,Yes,Spring 2024,2.89,45,Dr. Shah,False,E5059,C999,Fall 2026,Enrolled,79.0,82.0,86.0,89.0,both,,,,,,
+19,S1009,Emma,Chen,Data Science,3rd,27.0,Yes,Fall 2024,3.07,45,Dr. Moreno,False,E5019,C103,Fall 2026,Enrolled,84.0,61.0,81.0,74.4,both,CS,126.0,Introduction to Computing,4.0,Undergraduate,In Person
+20,S1009,Emma,Chen,Data Science,3rd,27.0,Yes,Fall 2024,3.07,45,Dr. Moreno,False,E5020,C108,Spring 2026,Completed,73.0,,71.0,84.2,both,MAT,442.0,Probability,3.0,Undergraduate,Hybrid
+21,S1010,Mateo,Davis,Data Science,4th,27.0,Yes,Fall 2023,2.59,24,Dr. Reed,False,E5021,C102,Fall 2026,Enrolled,74.0,97.0,81.0,79.5,both,STA,270.0,Applied Statistics,3.0,Undergraduate,Hybrid
+22,S1010,Mateo,Davis,Data Science,4th,27.0,Yes,Fall 2023,2.59,24,Dr. Reed,False,E5022,C108,Fall 2026,Enrolled,66.0,70.0,100.0,72.1,both,MAT,442.0,Probability,3.0,Undergraduate,Hybrid
+23,S1011,Isabella,Lopez,Statistics,2nd,18.0,Yes,Fall 2024,3.22,54,Dr. Reed,False,E5023,C108,Fall 2026,Enrolled,61.0,59.0,79.0,94.4,both,MAT,442.0,Probability,3.0,Undergraduate,Hybrid
+24,S1012,Elijah,Clark,Data Science,4th,26.0,Yes,Fall 2025,3.31,72,Dr. Reed,False,E5024,C108,Fall 2026,Enrolled,66.0,76.0,66.0,78.0,both,MAT,442.0,Probability,3.0,Undergraduate,Hybrid
+25,S1013,Amara,Taylor,Data Science,4th,,Yes,Spring 2024,2.77,108,Dr. Kim,False,E5025,C108,Fall 2025,Completed,83.0,70.0,,91.2,both,MAT,442.0,Probability,3.0,Undergraduate,Hybrid
+26,S1013,Amara,Taylor,Data Science,4th,,Yes,Spring 2024,2.77,108,Dr. Kim,False,E5026,C104,Fall 2026,Enrolled,68.0,78.0,77.0,81.7,both,MAT,239.0,Linear Algebra,3.0,Undergraduate,In Person
+27,S1014,Henry,Anderson,Mathematics,1st,20.0,Yes,Spring 2025,2.66,45,Dr. Shah,False,E5027,C102,Fall 2025,Completed,71.0,62.0,61.0,82.3,both,STA,270.0,Applied Statistics,3.0,Undergraduate,Hybrid
+28,S1014,Henry,Anderson,Mathematics,1st,20.0,Yes,Spring 2025,2.66,45,Dr. Shah,False,E5028,C101,Fall 2025,Completed,88.0,,77.0,77.6,both,STA,141.0,Exploratory Data Analysis,3.0,Undergraduate,In Person
+29,S1015,Mia,Thomas,Statistics,3rd,23.0,Yes,Fall 2024,3.81,36,Dr. Shah,True,E5029,C105,Fall 2026,Enrolled,61.0,96.0,88.0,82.3,both,STA,444.0,Statistical Computing,3.0,Undergraduate,Online
+30,S1016,Leo,Moore,Data Science,2nd,25.0,Yes,Spring 2026,3.31,96,Dr. Moreno,False,E5030,C106,Fall 2026,Enrolled,79.0,98.0,96.0,79.1,both,STA,556.0,Statistics and Data Science Computing Workflows,3.0,Graduate,In Person
+31,S1016,Leo,Moore,Data Science,2nd,25.0,Yes,Spring 2026,3.31,96,Dr. Moreno,False,E5031,C101,Fall 2025,Completed,76.0,64.0,99.0,89.7,both,STA,141.0,Exploratory Data Analysis,3.0,Undergraduate,In Person
+32,S1016,Leo,Moore,Data Science,2nd,25.0,Yes,Spring 2026,3.31,96,Dr. Moreno,False,E5032,C102,Spring 2026,Completed,75.0,89.0,75.0,74.4,both,STA,270.0,Applied Statistics,3.0,Undergraduate,Hybrid
+33,S1017,Nora,Lewis,Mathematics,2nd,19.0,Yes,Spring 2025,2.88,96,Dr. Moreno,False,E5033,C102,Fall 2025,Completed,70.0,97.0,87.0,96.9,both,STA,270.0,Applied Statistics,3.0,Undergraduate,Hybrid
+34,S1017,Nora,Lewis,Mathematics,2nd,19.0,Yes,Spring 2025,2.88,96,Dr. Moreno,False,E5034,C107,Spring 2026,Completed,61.0,70.0,86.0,,both,CS,345.0,Databases,3.0,Undergraduate,Online
+35,S1018,Samuel,Hall,Computer Science,4th,27.0,Yes,Fall 2025,3.95,36,Dr. Kim,True,E5035,C108,Fall 2026,Enrolled,74.0,87.0,64.0,99.8,both,MAT,442.0,Probability,3.0,Undergraduate,Hybrid
+36,S1018,Samuel,Hall,Computer Science,4th,27.0,Yes,Fall 2025,3.95,36,Dr. Kim,True,E5036,C107,Fall 2026,Enrolled,61.0,64.0,93.0,73.7,both,CS,345.0,Databases,3.0,Undergraduate,Online
+37,S1018,Samuel,Hall,Computer Science,4th,27.0,Yes,Fall 2025,3.95,36,Dr. Kim,True,E5037,C105,Spring 2026,Completed,58.0,,65.0,95.9,both,STA,444.0,Statistical Computing,3.0,Undergraduate,Online
+38,S1019,Zoe,Allen,Statistics,4th,18.0,No,Spring 2025,3.3,18,Dr. Shah,False,E5038,C104,Fall 2025,Completed,77.0,62.0,97.0,74.1,both,MAT,239.0,Linear Algebra,3.0,Undergraduate,In Person
+39,S1019,Zoe,Allen,Statistics,4th,18.0,No,Spring 2025,3.3,18,Dr. Shah,False,E5039,C103,Fall 2026,Enrolled,61.0,77.0,95.0,96.1,both,CS,126.0,Introduction to Computing,4.0,Undergraduate,In Person
+40,S1020,Daniel,Young,Mathematics,1st,22.0,Yes,Fall 2023,3.75,108,Dr. Shah,True,E5040,C103,Fall 2025,Completed,91.0,61.0,73.0,97.6,both,CS,126.0,Introduction to Computing,4.0,Undergraduate,In Person
+41,S1020,Daniel,Young,Mathematics,1st,22.0,Yes,Fall 2023,3.75,108,Dr. Shah,True,E5041,C102,Spring 2026,Completed,67.0,56.0,76.0,80.4,both,STA,270.0,Applied Statistics,3.0,Undergraduate,Hybrid
+42,S1021,Layla,King,Computer Science,2nd,22.0,Yes,Spring 2025,3.83,30,Dr. Shah,True,E5042,C107,Fall 2025,Completed,89.0,68.0,,73.9,both,CS,345.0,Databases,3.0,Undergraduate,Online
+43,S1021,Layla,King,Computer Science,2nd,22.0,Yes,Spring 2025,3.83,30,Dr. Shah,True,E5043,C101,Fall 2026,Enrolled,79.0,92.0,71.0,91.9,both,STA,141.0,Exploratory Data Analysis,3.0,Undergraduate,In Person
+44,S1022,Julian,Wright,Statistics,3rd,19.0,Yes,Spring 2025,,18,Dr. Shah,False,E5044,C107,Fall 2025,Completed,76.0,74.0,72.0,92.6,both,CS,345.0,Databases,3.0,Undergraduate,Online
+45,S1022,Julian,Wright,Statistics,3rd,19.0,Yes,Spring 2025,,18,Dr. Shah,False,E5045,C102,Spring 2026,Completed,62.0,61.0,71.0,85.2,both,STA,270.0,Applied Statistics,3.0,Undergraduate,Hybrid
+46,S1023,Grace,Scott,Data Science,1st,19.0,Yes,Fall 2023,2.49,45,Dr. Moreno,False,E5046,C102,Fall 2025,Completed,98.0,84.0,86.0,80.6,both,STA,270.0,Applied Statistics,3.0,Undergraduate,Hybrid
+47,S1023,Grace,Scott,Data Science,1st,19.0,Yes,Fall 2023,2.49,45,Dr. Moreno,False,E5047,C106,Spring 2026,Completed,70.0,74.0,98.0,77.8,both,STA,556.0,Statistics and Data Science Computing Workflows,3.0,Graduate,In Person
+48,S1024,Owen,Green,Data Science,2nd,26.0,Yes,Spring 2026,3.73,45,Dr. Kim,True,E5048,C106,Fall 2026,Enrolled,77.0,85.0,66.0,73.0,both,STA,556.0,Statistics and Data Science Computing Workflows,3.0,Graduate,In Person
+49,S1024,Owen,Green,Data Science,2nd,26.0,Yes,Spring 2026,3.73,45,Dr. Kim,True,E5049,C101,Spring 2026,Completed,77.0,84.0,82.0,83.5,both,STA,141.0,Exploratory Data Analysis,3.0,Undergraduate,In Person
+50,S1025,Chloe,Baker,Data Science,4th,19.0,Yes,Spring 2024,3.85,84,Dr. Moreno,True,E5050,C102,Fall 2025,Completed,80.0,79.0,64.0,79.7,both,STA,270.0,Applied Statistics,3.0,Undergraduate,Hybrid
+51,S1025,Chloe,Baker,Data Science,4th,19.0,Yes,Spring 2024,3.85,84,Dr. Moreno,True,E5051,C106,Fall 2025,Completed,92.0,58.0,75.0,87.6,both,STA,556.0,Statistics and Data Science Computing Workflows,3.0,Graduate,In Person
+52,S1026,Isaac,Adams,Statistics,4th,23.0,Yes,Fall 2024,3.29,36,,False,E5052,C104,Fall 2026,Enrolled,70.0,63.0,68.0,90.7,both,MAT,239.0,Linear Algebra,3.0,Undergraduate,In Person
+53,S1027,Elena,Nelson,Computer Science,2nd,27.0,Yes,Fall 2024,3.45,36,Dr. Kim,False,E5053,C107,Fall 2026,Enrolled,87.0,64.0,94.0,77.3,both,CS,345.0,Databases,3.0,Undergraduate,Online
+54,S1028,Caleb,Hill,Mathematics,1st,20.0,No,Spring 2026,3.79,108,Dr. Reed,True,E5054,C107,Fall 2025,Completed,85.0,98.0,88.0,72.1,both,CS,345.0,Databases,3.0,Undergraduate,Online
+55,S1028,Caleb,Hill,Mathematics,1st,20.0,No,Spring 2026,3.79,108,Dr. Reed,True,E5055,C105,Spring 2026,Completed,73.0,95.0,85.0,91.9,both,STA,444.0,Statistical Computing,3.0,Undergraduate,Online
+56,S1029,Aria,Campbell,Data Science,2nd,,Yes,Spring 2025,2.58,54,Dr. Moreno,False,E5056,C104,Spring 2026,Completed,88.0,57.0,85.0,80.3,both,MAT,239.0,Linear Algebra,3.0,Undergraduate,In Person
+57,S1029,Aria,Campbell,Data Science,2nd,,Yes,Spring 2025,2.58,54,Dr. Moreno,False,E5057,C108,Fall 2026,Enrolled,73.0,62.0,78.0,94.2,both,MAT,442.0,Probability,3.0,Undergraduate,Hybrid
+58,S1030,Miles,Mitchell,Computer Science,4th,22.0,Yes,Fall 2024,,36,Dr. Kim,False,,,,,,,,,left_only,,,,,,
